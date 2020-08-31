@@ -34,6 +34,10 @@ gapminder_unfiltered %>%
   arrange(year)
 ```
 
+Now I will make a plot:
+
+
+
 
 
 
